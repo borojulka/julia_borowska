@@ -1,2 +1,2 @@
-# julia_borowska
-Project 1- NBA 
+# Analiza Danych NBA
+Projekt wykorzystuje dane z kaggle
